@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hillel HW.5 Events, lambda, Extension Methods", "Hillel HW.5 Events, lambda, Extension Methods\Hillel HW.5 Events, lambda, Extension Methods.csproj", "{15250D13-D466-4A0E-B3D6-F60748CEB409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64B503F8-9E8B-4067-800B-8811FC27788D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15250D13-D466-4A0E-B3D6-F60748CEB409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15250D13-D466-4A0E-B3D6-F60748CEB409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15250D13-D466-4A0E-B3D6-F60748CEB409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15250D13-D466-4A0E-B3D6-F60748CEB409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35184A86-7F91-4D4F-80B1-3F255B6D1C05}
+	EndGlobalSection
+EndGlobal
